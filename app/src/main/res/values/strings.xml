@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DoIt</string>
+    <string name="title_hint">Enter a title for the doing</string>
+    <string name="title_label">Title</string>
+    <string name="details_label">Details</string>
+    <string name="done_label">Done?</string>
+    <string name="date">Date:</string>
+    <string name="new_doings">New Doing</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$s doings</string>
+    <string name="todolist">TO-DO LIST</string>
+    <string name="delete">Delete</string>
+    <plurals name="subtitle_plural">
+        <item quantity="one">%1$s doing</item>
+        <item quantity="other">%1$s doings</item> </plurals>
+
+</resources>
